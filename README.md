@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resume Screening Automation
 
 Automated screening tool that ranks resumes against a job description using NLP and Regex.
@@ -28,3 +29,7 @@ Automated screening tool that ranks resumes against a job description using NLP 
 4. Check `output/ranking_report.csv` for results.
 
 *Note: The script automatically generates dummy data if folders are empty.*
+=======
+# Resume-Screening-Automation
+ml project
+>>>>>>> f30d2727f9f330b89f2f200daf08f6bac808211f
