@@ -1,0 +1,6 @@
+
+    Job Title: Senior Data Scientist
+    Responsibilities: Build ML models, NLP systems.
+    Skills Required: Python, Machine Learning, NLP, Pandas, Scikit-learn, SQL, AWS, Docker.
+    Experience: 5+ years.
+    

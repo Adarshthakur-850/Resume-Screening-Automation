@@ -1,0 +1,6 @@
+Rank,Filename,Email,Match_Score,Cosine_Sim,Skill_Match,Skills_Found
+1,candidate_A.txt,alice@example.com,49.73,0.4426,0.625,"Python, Machine Learning, Scikit-learn, Pandas, NLP"
+2,candidate_C.txt,charlie@ml.org,36.29,0.3042,0.5,"Python, SQL, AWS, Kubernetes, Docker, Deep Learning"
+3,candidate_E.txt,eve@uni.edu,23.79,0.1792,0.375,"Python, Machine Learning, SQL"
+4,candidate_D.txt,dave@marketing.com,7.06,0.1009,0.0,
+5,candidate_B.txt,bob@test.com,5.2,0.0206,0.125,"Python, Java"
