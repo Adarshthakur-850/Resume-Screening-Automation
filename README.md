@@ -1,8 +1,3 @@
-Here’s a **professional, clear, and informative `README.md`** tailored to your *Resume Screening Automation* project. This format accelerates understanding for recruiters, developers, and collaborators.
-
----
-
-```markdown
 # 📄 Resume Screening Automation
 
 Automated system to screen and rank resumes using Natural Language Processing (NLP) and Machine Learning (ML), saving time and improving recruitment efficiency.
