@@ -174,9 +174,9 @@ Thanks to open-source NLP libraries and community contributions.
 
 ---
 
-```
+### ✨ Made with ❤️ by **Adarsh Thakur**
 
----
 
-If you want, I can generate a **beautiful markdown preview**, badges (like PyPI, Workflow, License), and a **demo GIF** section (upload asset first).
-```
+📍 LinkedIn: [https://www.linkedin.com/in/adarsh-thakur-8368](https://www.linkedin.com/in/adarsh-thakur-8368)
+
+📍 GitHub: [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-850)
